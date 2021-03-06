@@ -21,3 +21,4 @@ algorithmic-toolbox/week1_programming_challenges/2_maximum_pairwise_product/solu
 **/.tess
 **/build/*
 **/cmake-build-debug/*
+**/*.b
